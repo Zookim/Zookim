@@ -3,6 +3,7 @@
 [![Zookim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Zookim&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/Zookim/github-readme-stats#gh-dark-mode-only)
 [![zookim's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Zookim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Zookim/github-readme-stats#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zookim&layout=donut)](https://github.com/Zookim/github-readme-stats)
 <!--
 **Zookim/Zookim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
